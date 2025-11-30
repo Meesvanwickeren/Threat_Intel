@@ -1,0 +1,368 @@
+# Github Query: content:"aHR0cHM6Ly9hcGktc2VydmVyLW"
+# This query detects base64 value hxxps[://]api-server-mocha[.]vercel[.]app
+
+# Original malicious Base64,Defanged URL
+aHR0cHM6Ly9hcGktc2VydmVyLW1vY2hhLnZlcmNlbC5hcHAvYXBpL2lwY2hlY2stZW5jcnlwdGVkLzIxMg	hxxps[://]api-server-mocha[.]vercel[.]app/api/ipcheck-encrypted/212
+aHR0cHM6Ly9hcGktc2VydmVyLW1vY2hhLnZlcmNlbC5hcHAvYXBpL2lwY2hlY2stZW5jcnlwdGVkLzMxNA==	hxxps[://]api-server-mocha[.]vercel[.]app/api/ipcheck-encrypted/314
+aHR0cHM6Ly9hcGktc2VydmVyLW1vY2hhLnZlcmNlbC5hcHAvYXBpL2lwY2hlY2stZW5jcnlwdGVkLzYwMw==	hxxps[://]api-server-mocha[.]vercel[.]app/api/ipcheck-encrypted/603
+aHR0cHM6Ly9hcGktc2VydmVyLW1vY2hhLnZlcmNlbC5hcHAvYXBpL2lwY2hlY2stZW5jcnlwdGVkLzYwNg==	hxxps[://]api-server-mocha[.]vercel[.]app/api/ipcheck-encrypted/606
+aHR0cHM6Ly9hcGktc2VydmVyLW1vY2hhLnZlcmNlbC5hcHAvYXBpL2lwY2hlY2stZW5jcnlwdGVkLzYwNw==	hxxps[://]api-server-mocha[.]vercel[.]app/api/ipcheck-encrypted/607
+aHR0cHM6Ly9hcGktc2VydmVyLW1vY2hhLnZlcmNlbC5hcHAvYXBpL2lwY2hlY2stZW5jcnlwdGVkLzYyNA==	hxxps[://]api-server-mocha[.]vercel[.]app/api/ipcheck-encrypted/624
+aHR0cHM6Ly9hcGktc2VydmVyLW1vY2hhLnZlcmNlbC5hcHAvYXBpL2lwY2hlY2stZW5jcnlwdGVkLzgyMw	hxxps[://]api-server-mocha[.]vercel[.]app/api/ipcheck-encrypted/823
+aHR0cHM6Ly9hcGktc2VydmVyLW1vY2hhLnZlcmNlbC5hcHAvYXBpL2lwY2hlY2stZW5jcnlwdGVkLzk5	hxxps[://]api-server-mocha[.]vercel[.]app/api/ipcheck-encrypted/99
+
+# Malicious repositories
+tanmayjoddar/testing2 · server/.env
+gkhan205/testing · server/.env
+PohSayKeong/testing · server/.env
+StarCraft-Dred/Royalcity-poc · server/config/config.env.example
+DeepaliMoraskar/ecommerce · api/.env
+yuktasarode/Hustlr · api/.env
+Powehix/hustlr-frontend-developer-test · api/.env
+azeemabrarkhan/-eCommerce · api/.env
+mrritikjain/ecommerece_project · api/.env
+Devashish08/ecommerceassesment · api/.env
+dev-rayan9/React-Ecommerce-Test · api/.env
+lukiet/ecommerce_repository · api/.env
+Nik-19213/Test_Code_Ecommerce · api/.env
+itxAnjumshah/e-com-inteview · api/.env
+HoriaManea/frontend-developer-test · api/.env
+Uzo-I-O/HustlrEcommerce · api/.env
+Moiz-CodeByte/ecommerce-store-react · api/.env
+RosvaldeMANFO/-Hustlr-assessment · api/.env
+elisendatcabases/ecommerceWorkingDemo · api/.env
+KaustubhTrivedi/hustlr · api/.env
+jukanovic/ecommerce · api/.env
+GG-Gx/ecommerce-project · api/.env
+edalvb/ecommerce · api/.env
+gonzalolantero/ecommerce-project · api/.env
+samuelvictorol/Frontend-Test · api/.env
+alien2112/Frontend-Developer-Test · api/.env
+SabMehdi/ecommerce-dev-test · api/.env
+SabMehdi/ecommerce · api/.env
+ihebchebbi1998tn/ihebchebbitest · api/.env
+carlosss91/carlosss91.github.io · api/.env
+Soliam006/eCommerce · api/.env
+Cypher-Kami/ecommerce-product-card-test · api/.env
+BaverYldz/E-commerce-Test-app · api/.env
+keroloussamy/ecommerce · api/.env
+AnaVGD/Frontend-Developer-Test · api/.env
+antoniopioricciardi/ecommerce_hustlr · api/.env
+briunes/react-ecommers · api/.env
+ThulanjanaGit/react-ecommerce-task · api/.env
+lelerukjaymoh/connect-wallet · api/.env
+monir178/ecommerce-interview-task · api/.env
+EldarTarieladze/backend-task · api/.env
+3dsedi/hustlr · api/.env
+iam-hassan/ecommercetest · api/.env
+abdessamadbettal/ecomerce-backend · api/.env
+anvalenton/aeg · api/.env
+jastk45/-ecommerce-blockchain · api/.env
+saakeeb/ecommerce · api/.env
+walidoumechtak/ecommerce · api/.env
+Mearpithere/Hustlr · api/.env
+Mrteesoft/e-commerce-backend · api/.env
+sempedia/smart_product_search · api/.env
+payalkaur/hustlr-project · api/.env
+Ammar-Alnagar/ProHouse · server/.env
+Abbas-000/prohouse · server/.env
+BenjaminLarger/hustlrTechnicalTest · ecommerce/api/.env
+Hasnainsardarr/ecom · ecommerce/api/.env
+bhrigu-verma/ecommerce-app · insta-transcription/ecommerce/api/.env
+bhrigu-verma/paytm-deployement · insta-transcription/ecommerce/api/.env
+Excellent-Torch/E-Commerce---Backend-Engineer-Test · Test Project/api/.env
+bhrigu-verma/ecom · api/.env
+bhrigu-verma/paytm-production · insta-transcription/ecommerce/api/.env
+rashedmamdouh/AI-Developer-Test · api/.env
+wametee/blog-app · server/config/.env
+Reem99-sina/real-estate · server/config/.env
+MahmoudSaber1/Building_Rental_Platform · server/config/.env
+v0l0dar/Building_Rental_Platform · server/config/.env
+prodriguez-cualit/Building_Rental_Platform · server/config/.env
+StarCraft-Dred/MetaRace_PoC · server/.env
+cj4c0b1/decentralized-voting-system · server/config/.env
+wajeehamushtaq/E-commerce · api/.env
+utku-guclu/ecommerce-hustlr · api/.env
+Pujakumari1511/ecommerce · api/.env
+victordev-Ops/Rent · server/config/.env
+0xDaniiel/property-rentals · server/config/.env
+StarCraft-Dred/Testing · server/.env
+qng95/ai-search-ecommerce · api/.env
+DAppRacers/RacingDAO · server/.env
+
+# Github Query: content:"aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL"
+# This query detects base64 value hxxps[://]jsonkeeper[.]com
+
+# Original malicious Base64,Defanged URL
+Original Base64,Defanged URL
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL0JBRFdO,hxxps[://]jsonkeeper[.]com/b/BADWN
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL0U0WVBa,hxxps[://]jsonkeeper[.]com/b/E4YPZ
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL0ZNOEQ2,hxxps[://]jsonkeeper[.]com/b/FM8D6
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL0dDR0VY,hxxps[://]jsonkeeper[.]com/b/GCGEX
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL0lBUkdX,hxxps[://]jsonkeeper[.]com/b/IARGW
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL0lYSFM0,hxxps[://]jsonkeeper[.]com/b/IXHS4
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL0lYV0hV,hxxps[://]jsonkeeper[.]com/b/IXWHU
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL0pWNDNO,hxxps[://]jsonkeeper[.]com/b/JV43N
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL0xJMUI5,hxxps[://]jsonkeeper[.]com/b/LI1B9
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL1BRUFRa,hxxps[://]jsonkeeper[.]com/b/PQPTZ
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL1FMVVlL,hxxps[://]jsonkeeper[.]com/b/QLUEK
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iLzZPQ0ZZ,hxxps[://]jsonkeeper[.]com/b/6OCFY
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iLzg2SDAz,hxxps[://]jsonkeeper[.]com/b/86H03
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iLzhSTE9W,hxxps[://]jsonkeeper[.]com/b/8RLOV
+aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iLzhaTU1G,hxxps[://]jsonkeeper[.]com/b/8ZMMF
+
+# Malicious repositories
+aalexxdev/web3-scam-repo-example · server/config/.config.env
+NikhilSingh9919/evm-dex-platform-main · server/config/.config.env
+shepherdvovkes/VaultSwap · evm-dex-demo/server/config/.config.env
+felipedev418/gamefi-ecosystem-gaming-platform · server/config/.config.env
+felipedev418/real-estate-rental-platform · server/config/.config.env
+TommyMinion/DeFi-Market · server/config/.config.env
+mllowenstein/goldencity-backend · server/src/config/.config.env
+IlyaPinchuk/web3-staking · server/config/.config.env
+ilovelili/ytICnedloG · contracts/config/.config.env
+cirsteve/gcity_vote · contracts/config/.config.env
+davi1201/golden-city-test · contracts/config/.config.env
+MZ-Unlimited/GoldenCityTest · contracts/config/.config.env
+danial-riazati/golden-city-enhance · contracts/config/.config.env
+mllowenstein/goldencity-frontend · contracts/config/.config.env
+livebitz1/FOOTBALL-PROJECT- · server/config/.config.env
+r3dmon/real-state · server/config/.config.env
+Ambition-lead/linkfi · server/data/products.json
+felipedev418/RaceStake-Hub · pages/api/2fa.ts
+
+# Github Query: content:"aHR0cHM6Ly93d3cuanNvbmtlZXBlci5jb20"
+# This query detects base64 value hxxps[://]www[.]jsonkeeper[.]com/
+
+# Original malicious Base64,Defanged URL
+aHR0cHM6Ly93d3cuanNvbmtlZXBlci5jb20vYi84NVFHSAo=,hxxps[://]www[.]jsonkeeper[.]com/b/85QGH
+aHR0cHM6Ly93d3cuanNvbmtlZXBlci5jb20vYi9ERTRTTQ==,hxxps[://]www[.]jsonkeeper[.]com/b/DE4SM
+aHR0cHM6Ly93d3cuanNvbmtlZXBlci5jb20vYi9KTkdVUQ==,hxxps[://]www[.]jsonkeeper[.]com/b/JNGUQ
+aHR0cHM6Ly93d3cuanNvbmtlZXBlci5jb20vYi9PMlFLSw==,hxxps[://]www[.]jsonkeeper[.]com/b/O2QKK
+aHR0cHM6Ly93d3cuanNvbmtlZXBlci5jb20vYi9PUjBGTg==,hxxps[://]www[.]jsonkeeper[.]com/b/OR0FN
+aHR0cHM6Ly93d3cuanNvbmtlZXBlci5jb20vYi9SWkFUSQ==,hxxps[://]www[.]jsonkeeper[.]com/b/RZATI
+aHR0cHM6Ly93d3cuanNvbmtlZXBlci5jb20vYi9UN1E0Vg,hxxps[://]www[.]jsonkeeper[.]com/b/T7Q4V
+aHR0cHM6Ly93d3cuanNvbmtlZXBlci5jb20vYi9UN1E0Vg==,hxxps[://]www[.]jsonkeeper[.]com/b/T7Q4V
+
+# Malicious repositories
+harrypotter060327-netizen/David-test · api/config/config.env
+GarenaService/demo-project · server/middlewares/validator/index.js
+tirios-ai/bestcity · server/controllers/userController.js
+technoknol/bestcity · server/controllers/userController.js
+livebitz1/FOOTBALL-PROJECT- · server/config/.config.env
+adammajoros250-creator/alex111 · server/config/config.env
+ryandwarn1-web/creatorChain · backend/config/.config.env
+Welcome-Silver/creatorChain · backend/config/.config.env
+pasichmaria/apom_dapp · backend/src/config/config.env
+starcoder8/minting-app · server/config/.config.env
+sayyidkhanesg/corex-arc · server/config/config.env
+Isallkun/magicgamehub · backend/config.env
+Isallkun/magicgamehub123 · backend/config.env
+
+# Github Query: content:"aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjI"
+# This query detects base64 value hxxps[://]api[.]mocki[.]io/
+
+# Original malicious Base64,Defanged URL
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIvMTQ5dGw1MnMvdHJhY2tzL2Vycm9ycy84NjI1MjQ=,hxxps[://]api[.]mocki[.]io/v2/149tl52s/tracks/errors/862524
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIvNjRpanBtYWw=,hxxps[://]api[.]mocki[.]io/v2/64ijpmal
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIvNnl5M2ltYWovdHJhY2tzL2Vycm9ycy85MDE3MzI=,hxxps[://]api[.]mocki[.]io/v2/6yy3imaj/tracks/errors/901732
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIvOHY0N2NocWs=,hxxps[://]api[.]mocki[.]io/v2/8v47chqk
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIvYjI4ZzFycTgvdHJhY2tzL2Vycm9ycy82MTczMzM=,hxxps[://]api[.]mocki[.]io/v2/b28g1rq8/tracks/errors/617333
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIvYmZibWxjMGs=,hxxps[://]api[.]mocki[.]io/v2/bfbmlc0k
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIvaGN3cTA5MDU=,hxxps[://]api[.]mocki[.]io/v2/hcwq0905
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIvaGl5ODNmc3QvdHJhY2tzL2Vycm9ycy82Nzg2NzQ=,hxxps[://]api[.]mocki[.]io/v2/hiy83fst/tracks/errors/678674
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIvbHc2eHF2ZDg=,hxxps[://]api[.]mocki[.]io/v2/lw6xqvd8
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIveGNsamtiZno=,hxxps[://]api[.]mocki[.]io/v2/xcljkbfz
+aHR0cHM6Ly9hcGkubW9ja2kuaW8vdjIveTBwOGt2b2UvdHJhY2tzL2Vycm9ycy82MTczMzM=,hxxps[://]api[.]mocki[.]io/v2/y0p8kvoe/tracks/errors/617333
+
+# Malicious repositories
+0marSalah/real-estate-project · server/.env
+ponchowannie/real-estate-project · server/.env
+azzaky9/solidity-retest · server/.env
+JuanCSUCoder/real-state-demo · server/.env
+AgustinJimenez/realtworks_assesment2 · backend/.env
+gabarod/Home-Assesstment · backend/.env
+jdleonruiz/Assessment2 · backend/.env
+shadokan87/assessment · backend/.env
+nothussainrana/assessment2 · backend/.env
+kernelwhisperer/assessment2 · backend/.env
+ArslanIdrees257/real-estate-team-assessment2 · backend/.env
+soheilqk/zia-mica--assessment · backend/.env
+flamechaoz/InvoBlox-assessment-v2 · backend/.env
+vctrubio/fullstack-node-I-O-Handling-query-params · backend/.env
+selimunall/invobox-assessment · backend/.env
+morkilevinod/assesment2 · backend/.env
+iSued/assessment2-blox-tech · backend/.env
+SE3CRET/Test-assignment · backend/.env
+damian-pebe/full-stack · backend/.env
+KaungZawHtet/ethvault · backend/.env
+assidik12/real-estate-rental-apitest · server/config/env.js
+mirzadipradhana/real-estate-rental · server/config/env.js
+rakhargo/real-estate-rental-assessment · server/config/env.js
+muhammad-zulfa/real-estate-rental · server/config/env.js
+s-chowdhary/ETHVault_Project · backend/config/env.js
+daamo31/ETHVault_Project · backend/config/env.js
+steven-varga/ethvault · backend/config/env.js
+Heet852003/ETHVault_Project · backend/config/env.js
+brandonfox/ethvault_staking_project_notes · backend/config/env.js
+markomilivojevic/ethvault_staking · backend/config/env.js
+ecomnazar/test-ethvault-project · backend/config/env.js
+jpoullet2000/ethvault_staking_project · backend/config/env.js
+abdmandhan/real-estate-assessment · server/config/env.js
+Morte-Bianca/challange · backend/src/config/env.js
+anunayjoshi29/bitsangels · backend/src/config/env.js
+SatwikPrabhu/challenge · backend/src/config/env.js
+tiagoromano/vozzi_impl · backend/src/config/env.js
+kollihk/school-management-system · backend/src/config/env.js
+Radeonares32/student-skill · backend/src/config/env.js
+ngazic/Students-management-system-demo · backend/src/config/env.js
+agnishcc/student-challenge · backend/src/config/env.js
+ivoreda/koinos-assessment · backend/src/middleware/errorHandler.js
+donishmand23/test14-assessment · backend/src/middleware/errorHandler.js
+AlexandruMares/Koinos-test · backend/src/middleware/errorHandler.js
+sandy13869/koinostest · backend/src/middleware/errorHandler.js
+mvladm14/koinos-test-14 · backend/src/middleware/errorHandler.js
+vladutbutnaru/koinos-interview · backend/src/middleware/errorHandler.js
+Radeonares32/koinos-assessment · backend/src/middleware/errorHandler.js
+jaxteller2016/test-14 · backend/src/middleware/errorHandler.js
+xfstef/koinos · backend/src/middleware/errorHandler.js
+MileaRobertStefan/-Interview-Projects · test14/backend/src/middleware/errorHandler.js
+ihzhatamamy/-MagicDoor_Property_Rental · server/config/constant.js
+
+# Github Query: content:"aHR0cHM6Ly9hcGkubnBvaW50Lm"
+# This query detects base64 value hxxps[://]api[.]npoint[.]io/
+
+# Original malicious Base64,Defanged URL
+aHR0cHM6Ly9hcGkubnBvaW50LmlvL2ExZGJmNWE5ZDVkMDYzNmVkZjc2,hxxps[://]api[.]npoint[.]io/a1dbf5a9d5d0636edf76
+aHR0cHM6Ly9hcGkubnBvaW50LmlvL2NhOGE0OTgyZDAyYjAyMGIyODYx,hxxps[://]api[.]npoint[.]io/ca8a4982d02b020b2861
+aHR0cHM6Ly9hcGkubnBvaW50LmlvL2NiMGY5ZDBkMDNmNTBhNWUxZWJl,hxxps[://]api[.]npoint[.]io/cb0f9d0d03f50a5e1ebe
+aHR0cHM6Ly9hcGkubnBvaW50LmlvL2Y0YmUwZjc3MTNhNmZjZGFhYzhi,hxxps[://]api[.]npoint[.]io/f4be0f7713a6fcdaac8b
+aHR0cHM6Ly9hcGkubnBvaW50LmlvL2Y2ZGQ4OWMxZGQ1OTIzNDg3M2Ni,hxxps[://]api[.]npoint[.]io/f6dd89c1dd59234873cb
+aHR0cHM6Ly9hcGkubnBvaW50LmlvLzAzZjk4ZmE2MzlmYTM3Njc1NTI2,hxxps[://]api[.]npoint[.]io/03f98fa639fa37675526
+aHR0cHM6Ly9hcGkubnBvaW50LmlvLzE0ODk4NDcyOWUxMzg0Y2JlMjEy,hxxps[://]api[.]npoint[.]io/148984729e1384cbe212
+aHR0cHM6Ly9hcGkubnBvaW50LmlvLzIxNjk5NDAyMjFlOGI2N2QyMzEy,hxxps[://]api[.]npoint[.]io/2169940221e8b67d2312
+aHR0cHM6Ly9hcGkubnBvaW50LmlvLzM4YWNmODZiNmViNDJiNTFiOWMy,hxxps[://]api[.]npoint[.]io/38acf86b6eb42b51b9c2
+aHR0cHM6Ly9hcGkubnBvaW50LmlvLzMzNmMxN2NiYzlhYmYyMzRkNDIz,hxxps[://]api[.]npoint[.]io/336c17cbc9abf234d423
+aHR0cHM6Ly9hcGkubnBvaW50LmlvLzYyNzU1YTliMzM4MzZiNWE2YzI4,hxxps[://]api[.]npoint[.]io/62755a9b33836b5a6c28
+aHR0cHM6Ly9hcGkubnBvaW50LmlvLzgzMmQ1ODkzMmZjZmIzMDY1YmM3,hxxps[://]api[.]npoint[.]io/832d58932fcfb3065bc7
+
+# Malicious repositories
+0x3ca54/arena-world · server/config/.config.env
+AbdullahSalihOner/golden-task · contracts/config/.config.env
+Astridmcf/nft-web3-test · .env
+Astridmcf/nft-web3-test · src/main.jsx
+Ayush-autviz/testFrontend · frontend_test/.env
+Ayush-autviz/testFrontend · frontend_test/src/main.jsx
+RedBird96/tirios-goldencity · contracts/config/.config.env
+Sonuaut/frontend_test · .env
+Sonuaut/frontend_test · src/main.jsx
+TulasidharM/Real-Estate-Rental-Platform_TulasidharM-FrontEnd · server/config/.config.env
+adarshsingh05/Test_project_adarsh · E-commerce-main/api/.env
+bahuan-coding/goldencity · contracts/config/.config.env
+cavidk/fetch_products-task · .env
+cavidk/fetch_products-task · .history/src/main_20250610070559.jsx
+cavidk/fetch_products-task · .history/src/main_20250627171037.jsx
+cavidk/fetch_products-task · src/main.jsx
+chetanck03/extra · api/.env
+felipedev418/RaceStake-Hub · DEPLOYMENT_GUIDE.md
+felipedev418/RaceStake-Hub · backend/config/.config.env
+felipedev418/RaceStake-Hub · deploy.json
+iabhays/Blockchain-based-web3-Real-State-Investing · server/config/.config.env
+kemiani/prueba-tecnica-METATHEORY · .env
+n0228/rental · server/config/.config.env
+parth5805/iGuru-Task · .env
+sandeep-aut/store_test · .env
+sandeep-aut/test_client · main.jsx
+shrutiversee/React-Node-Test-main · server/config/.config.env
+wgueds/goldencity · contracts/config/.config.env
+
+# Github Query: content:"aHR0cHM6Ly9icy1wcm9kdWN"
+# This query detects base64 value hxxps[://]bs-production[.]up[.]railway[.]app
+
+# Original malicious Base64,Defanged URL
+aHR0cHM6Ly9icy1wcm9kdWN0aW9uLnVwLnJhaWx3YXkuYXBwL291dA==,hxxps[://]bs-production[.]up[.]railway[.]app/out
+aHR0cHM6Ly9icy1wcm9kdWN0aW9uLnVwLnJhaWx3YXkuYXBwL29u,hxxps[://]bs-production[.]up[.]railway[.]app/on
+aHR0cHM6Ly9icy1wcm9kdWN0aW9uLnVwLnJhaWx3YXkuYXBwL2FwaQ==,hxxps[://]bs-production[.]up[.]railway[.]app/api
+aHR0cHM6Ly9icy1wcm9kdWN0aWcur9uLnVwLnJhaWx3YXkuYXBwL3N2Zw==	,hxxps[://]bs-production[.]up[.]railway[.]app/svg
+aHR0cHM6Ly9icy1wcm9kdWN0aWnob9uLnVwLnJhaWx3YXkuYXBwL3N2Zw==	,hxxps[://]bs-production[.]up[.]railway[.]app/svg
+aHR0cHM6Ly9icy1wcm9kdWN0aWsot9uLnVwLnJhaWx3YXkuYXBwL3N2Zw==	,hxxps[://]bs-production[.]up[.]railway[.]app/svg
+aHR0cHM6Ly9icy1wcm9kdWNcon0aW9uLnVwLnJhaWx3YXkuYXBwL2lu	,hxxps[://]bs-production[.]up[.]railway[.]app/in
+
+# Malicious repositories
+sahilrawalbacancy/ecommerce · api/.env
+mitsuhashish/cary-ecommerce · api/.env
+naveen-444/React-JS-Frontend-Assessment · server/.env
+naveen-444/Node-js-assessment · server/.env
+Oleh-Mohylnyi/test-wallet · server/.env
+alexeev-dev/racing_game · server/.env
+shrpne/web3_staking_platform · server/.env
+MElkawa/stokkyam · server/.env
+shyshka/e-commerce-test · api/.env
+Efrizal-m/ecommerce-web3 · api/.env
+daffhaidar/nft-marketplace-clean · api/.env
+chintan0patel/Test-Website · api/.env
+Faathirazukhruf/realestatetesting · api/.env
+AyushGupta-0/testing · server/.env
+KlassiToken/assessment · server/.env
+SIRABAZA/Linkedin_Task · api/.env
+System625/e-Commerce · api/.env
+fadihere/e-Commerce · api/.env
+hareshramani/eCommerce-blockchain · api/.env
+kenkomu/React_e-Commerce-test · api/.env
+safee25/e-Commerce · api/.env
+sajjanjyothi/noteserver · server/.env
+tanmayjoddar/testing · server/.env
+kykhongbithac/kykhongbithac.github.io · 2025/08/19/E-commerce/index.html
+
+# Github Query: content:"aHR0cHM6Ly9jbG91ZGFwaS51czIubW9ja29vbi5hcHAvdjIvdHJhY2tzL2Vycm9ycz9pZD"
+# This query detects base64 value hxxps[://]cloudapi[.]us2[.]mockoon[.]app
+
+# Original malicious Base64,Defanged URL
+aHR0cHM6Ly9jbG91ZGFwaS51czIubW9ja29vbi5hcHAvdjIvdHJhY2tzL2Vycm9ycz9pZD14NXA0NkpnTkN6,hxxps[://]cloudapi[.]us2[.]mockoon[.]app/v2/tracks/errors?id=x5p46JgNCz
+aHR0cHM6Ly9jbG91ZGFwaS51czIubW9ja29vbi5hcHAvdjIvdHJhY2tzL2Vycm9ycz9pZD1CTk16aTZTN01D,hxxps[://]cloudapi[.]us2[.]mockoon[.]app/v2/tracks/errors?id=BNMzi6S7MC
+aHR0cHM6Ly9jbG91ZGFwaS51czIubW9ja29vbi5hcHAvdjIvdHJhY2tzL2Vycm9ycz9pZD1VamNHZ29oMVBN,hxxps[://]cloudapi[.]us2[.]mockoon[.]app/v2/tracks/errors?id=UjcGgoh1PM
+aHR0cHM6Ly9jbG91ZGFwaS51czIubW9ja29vbi5hcHAvdjIvdHJhY2tzL2Vycm9ycz9pZD1wRkVJTVh3VXVQ,hxxps[://]cloudapi[.]us2[.]mockoon[.]app/v2/tracks/errors?id=pFEIMXwUuP
+
+# Malicious repositories
+jmcastellanojimenez/challenge_andrew · backend/src/config/env.js
+kutlayozger/chalenge · backend/src/config/env.js
+lalagias/student-management-challenge · backend/src/config/env.js
+stadia03/student_management_system · backend/src/config/env.js
+lokeshvelayudham/test-14 · backend/src/middleware/errorHandler.js
+Nitishnaidu368/koinos-finance-test-14-ca2d71b9dc25 · backend/src/middleware/errorHandler.js
+Daneality/assessment · .env
+clicianDev/assessment · backend/.env
+Kaybarax/assesment2 · backend/.env
+borutkolar/ethvault-task · backend/.env
+johndtwaldron/EthVault-QA-task1-jdw-PoW · backend/.env
+charan51/EthVault · backend/.env
+zertan/ethvault-submission · backend/.env
+nhungchubao28/real-eastae · server/.env
+
+# Github Query: content:"aHR0cHM6Ly9hcGkuanNvbnNpbG8uY29t"
+# This query detects base64 value hxxps[://]api[.]jsonsilo[.]com
+
+# Original malicious Base64,Defanged URL
+aHR0cHM6Ly9hcGkuanNvbnNpbG8uY29tL3B1YmxpYy85NDJhY2Q5OC04YzhjLTQ3ZDgtODY0OC0wNDU2Yjc0MGVmOGI=,hxxps[://]api[.]jsonsilo[.]com/public/942acd98-8c8c-47d8-8648-0456b740ef8b
+aHR0cHM6Ly9hcGkuanNvbnNpbG8uY29tL3B1YmxpYy8wMDQ4ZjEwMi0zMzZmLTQ1ZGQtYWVmNi0zNjQxMTU4YTRjNWQ=,hxxps[://]api[.]jsonsilo[.]com/public/0048f102-336f-45dd-aef6-3641158a4c5d
+
+# Malicious repositories
+epl-sports-2026-v1/epl-sports-2026-v1-01 · server/data/team-stats.json
+AyushMore623/caw · server/data/products.json
+
+# Github Query: content:"aHR0cDovLzEwNy4xODkuMTYuMT"
+# This query detects base64 value hxxps[://]api[.]jsonsilo[.]com
+
+# Original malicious Base64,Defanged URL
+aHR0cDovLzEwNy4xODkuMTYuMTU0OjgzNTMvYXBpL3VzZXIvdGhpcmRjb29raWUvdjEzLzEzMg==, hxxp[://]107.189.16[.]154:8353/api/user/thirdcookie/v13/132
+
+# Malicious repositories
+devPinheiro/storm-shop · server/settings.js
+vicosoft4real/storm-shop · server/settings.js
+traj3ctory/storm-shop · server/settings.js
+Larriemoses/TailorMind_Assessment · server/settings.js
+Mcdavid95/storm-shop · server/settings.js
+sukiejosh/storm-shop-assignment · server/settings.js
+
+
+
